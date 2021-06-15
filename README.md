@@ -2,7 +2,7 @@
 
 ArduinoHWpins, a hardware label to Arduino label pin mapping utility by Bryce Cherry which is useful for non-Arduino boards
 
-v1.0 First release
+1.0.0 First release
 
 FEATURES:
 Converts hardware pin labels to Arduino pin labels which is useful for non-Arduino boards
