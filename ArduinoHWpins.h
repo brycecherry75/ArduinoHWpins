@@ -98,14 +98,14 @@ const byte PK_4 = A12;
 const byte PK_5 = A13;
 const byte PK_6 = A14;
 const byte PK_7 = A15;
-const byte PL__0 = 49;
-const byte PL__1 = 48;
-const byte PL__2 = 47;
-const byte PL__3 = 46;
-const byte PL__4 = 45;
-const byte PL__5 = 44;
-const byte PL__6 = 43;
-const byte PL__7 = 42;
+const byte PL_0 = 49;
+const byte PL_1 = 48;
+const byte PL_2 = 47;
+const byte PL_3 = 46;
+const byte PL_4 = 45;
+const byte PL_5 = 44;
+const byte PL_6 = 43;
+const byte PL_7 = 42;
 
 // Leonardo or derivatives
 #elif defined(__AVR_ATmega16U4__) || defined(__AVR_ATmega32U4__)
@@ -236,7 +236,7 @@ const byte PD_9 = 30;
 const byte PD_10 = 32;
 
 #else
-#error Unsupported chip, PL__ease edit ArduinoHWpins library with hardware pin labels corresponding to Arduino pins
+#error Unsupported chip, PL_ease edit ArduinoHWpins library with hardware pin labels corresponding to Arduino pins
 #endif
 
 #endif

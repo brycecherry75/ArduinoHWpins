@@ -1,8 +1,9 @@
-#RapidFireIO Library#
+#ArduinoHWpins Library#
 
 ArduinoHWpins, a hardware label to Arduino label pin mapping utility by Bryce Cherry which is useful for non-Arduino boards
 
 1.0.0 First release
+1.0.1 Correction of PLx pin definitions
 
 FEATURES:
 Converts hardware pin labels to Arduino pin labels which is useful for non-Arduino boards
